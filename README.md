@@ -1,1 +1,1 @@
-# HealthHub
+# HealthHub Mobile is a state-of-the-art mobile application designed to empower users with personalised health management tools and seamless communication with healthcare providers. This comprehensive mobile health solution is tailored to enhance patient engagement, foster collaborative care, and provide users with easy access to their health records, appointments, and essential healthcare resources.
